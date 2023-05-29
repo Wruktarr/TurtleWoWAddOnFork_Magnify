@@ -1,5 +1,5 @@
 local ZOOM_MIN = 1
-local ZOOM_MAX = 1.5
+local ZOOM_MAX = 2.0 -- was 1.5
 local ZOOM_STEP = 0.2
 
 local function WorldMapScrollFrame_OnPan(cursorX, cursorY)
